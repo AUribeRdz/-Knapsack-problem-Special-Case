@@ -3,5 +3,7 @@
 # Hints:
 # 1) Box type: assume type A and type B
 # 2) Box size: they are not the same
+# 3) Backpack capacity: They are not the same
+# 4) Box timming: Boxes at the end of the truck might be a better fit
 
 
